@@ -2,3 +2,7 @@ BIOL-40190
 ==========
 
 SAS Programming
+
+The third and final assignment for this course built upon the two previous assignments. This code gives various examples of generating reports using existing data. 
+
+The log file for assignment 3 has also been included.
